@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FIB Filter</string>
+    <string name="add_stock">Add Stock</string>
+    <string name="refresh_all">Refresh All</string>
+    <string name="settings">Settings</string>
+    <string name="no_stocks">No stocks added yet.\nTap + to add a stock.</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error occurred</string>
+    <string name="success">Success</string>
+</resources>
